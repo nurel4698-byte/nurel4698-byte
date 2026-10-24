@@ -1,16 +1,42 @@
-## Hi there 👋
 
-<!--
-**nurel4698-byte/nurel4698-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Nurel 👋
 
-Here are some ideas to get you started:
+### Python Developer | Django | SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a second-year student at the International Polytechnic College, specializing in Computer Network Programming.
+
+I enjoy developing web applications and learning new technologies.
+
+## 🛠️ Skills
+
+- Python
+- Django
+- SQL
+- PostgreSQL
+- HTML & CSS
+- Git & GitHub
+- Object-Oriented Programming (OOP)
+
+## 🚀 My Projects
+
+### Avito
+Web application inspired by online marketplaces.
+[GitHub Repository](https://github.com/nurel4698-byte/avito)
+
+### Avito Backend
+Backend development project.
+[GitHub Repository](https://github.com/nurel4698-byte/avito-backend)
+
+### Python49
+Python learning and practice projects.
+[GitHub Repository](https://github.com/nurel4698-byte/python49)
+
+## 🎓 Education
+
+International Polytechnic College  
+Computer Network Programming  
+Second-year student
+
+## 📫 Contact
+
+GitHub: [@nurel4698-byte](https://github.com/nurel4698-byte)
